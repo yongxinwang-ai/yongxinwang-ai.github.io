@@ -13,3 +13,9 @@ I have a strong interest in transfer learning in the field of Computer Vision. A
 related to a Robust Source-free Test-time Adaptation under time-varying environments, supervised by [Dr. Xialei Liu](https://mmcheng.net/xliu/).
 Besides, Generative Model is the direction that I am interested in.
 
+In Augest 2023, I am going to study in [MBZUAI](), Abu Dhabi, for my Master degree in Computer Vision.
+
+##How to pronounce my name
+
+Yong-xin, is really hard for western people to pronounce "xin" as the sound does exist in all languages apart from Chinese.
+So you can also call me "yong-shin" or my English nickname LasseFord, which is easier to pronounce.
