@@ -14,6 +14,7 @@ related to a Robust Source-free Test-time Adaptation under time-varying environm
 Besides, Generative Model is the direction that I am interested in.
 
 In Augest 2023, I am going to study in [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi, for my Master degree in Computer Vision.
+My mentor will be [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
 
 ## How pronounce my name
