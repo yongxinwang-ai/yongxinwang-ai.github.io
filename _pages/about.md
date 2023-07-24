@@ -20,3 +20,6 @@ My mentor will be [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 ## How pronounce my name
 Yong-xin, is really hard for western people to pronounce "xin" as the sound does exist in all languages apart from Chinese.
 So you can also call me "yong-shin" or my English nickname LasseFord, which is easier to pronounce.
+
+
+## News
