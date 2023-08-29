@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Yongxin Wang, an undergraduate at Nankai University, in the department of Computer Science.
-I have a strong interest in transfer learning in the field of Computer Vision. And my current research is
-related to a Robust Source-free Test-time Adaptation under time-varying environments, supervised by [Dr. Xialei Liu](https://mmcheng.net/xliu/).
-Besides, Generative Model is the direction that I am interested in.
+Hi! I'm Yongxin Wang, a first-year student at [MBZUAI](https://mbzuai.ac.ae/) where I'm pursuing my Master degree in Computer Vision. I am working with [Dr. Xiaodan Liang](https://lemondan.github.io/) and [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).Prior to joining MBZUAI, I obtained my B.E. in Computer Science (2019-2023),  supervised by [Dr. Xialei Liu](https://mmcheng.net/xliu/).
 
-In Augest 2023, I am going to study in [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi, for my Master degree in Computer Vision.
-My mentor will be [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
-
+I have a strong interest in transfer learning in the field of Computer Vision. And my current research is related to Zero-shot Learning(Multi-model) and Domain Adaptation.
 
 ## How pronounce my name
 Yong-xin, is really hard for western people to pronounce "xin" as the sound does exist in all languages apart from Chinese.
