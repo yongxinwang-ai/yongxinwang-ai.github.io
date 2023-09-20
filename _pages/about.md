@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Yongxin Wang, a first-year student at [MBZUAI](https://mbzuai.ac.ae/) where I'm pursuing my Master degree in Computer Vision. I am working with [Dr. Xiaodan Liang](https://lemondan.github.io/) and [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).Prior to joining MBZUAI, I obtained my B.E. in Computer Science (2019-2023),  supervised by [Dr. Xialei Liu](https://mmcheng.net/xliu/).
+Hi! I'm Yongxin Wang, a first-year student at [MBZUAI](https://mbzuai.ac.ae/) where I'm pursuing my Master degree in Computer Vision. I am working with [Dr. Xiaodan Liang](https://lemondan.github.io/) and [Dr. Zhiqiang Shen](https://zhiqiangshen.com/).Prior to joining MBZUAI, I obtained my B.E. in Computer Science (2019-2023),  supervised by [Dr. Xialei Liu](https://mmcheng.net/xliu/).
 
 I have a strong interest in transfer learning in the field of Computer Vision. And my current research is related to Zero-shot Learning(Multi-model) and Domain Adaptation.
 
